@@ -32,7 +32,7 @@ const Navigation = ({ currentPage, setCurrentPage }) => {
           >
             <h1 className="text-2xl font-bold">
               <span className="text-primary-600">ISL</span>
-              <span className="text-gray-800">Bridge</span>
+              <span className="text-gray-800">ync</span>
             </h1>
           </div>
 
